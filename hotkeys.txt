@@ -1,0 +1,6 @@
+select hotkeys
+  shift + -> :select 
+  cntrl + shift + -> + up or down : select multiple line
+screan shot 
+  cntrl + shift + prt screan :snip and copy screan shot
+cntrl shift c or v :copy past command line
